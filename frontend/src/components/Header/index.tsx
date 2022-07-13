@@ -9,8 +9,11 @@ function Header() {
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
                 <p>
-                    Desenvolvedor | 
+                    Desenvolvedor : 
                     <a href="https://github.com/WillSantos5"> GitHub: WillSantos5</a>
+                    <br></br>
+                    Semana Spring React DevSuperior :
+                    <a href="https://www.instagram.com/devsuperior.ig"> @devsuperior.ig</a>
                 </p>
             </div>
         </header>
